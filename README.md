@@ -1,4 +1,4 @@
-# Mojeek Favicons — Chrome/Chromium
+# Mojeek Favicons — Chromium-based browser
 
 > A port of the original [Mojeek Favicons Firefox extension](https://addons.mozilla.org/en-GB/firefox/addon/mojeek-favicons/) by **David Smith**, adapted for Chrome, Vivaldi, Edge, and any Chromium-based browser using Manifest V3.
 
