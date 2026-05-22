@@ -6,16 +6,16 @@
 
 ## What it does
 
-Enhances [Mojeek](https://www.mojeek.com) search results pages with a **Startpage-style result header** for each listing:
+Adds a visual header to each [Mojeek](https://www.mojeek.com) search result, grouping the site's favicon, readable name, and existing URL into a scannable block above the result title.
 
 - **Favicon** — fetched from DuckDuckGo's icon service, sized larger (26 px) for top-level results
 - **Site name** — derived automatically from the domain (e.g. `en.wikipedia.org` → **Wikipedia**)
-- **Display URL** — reuses Mojeek's own green URL element when available, or falls back to the plain domain
+- **Display URL** —  moves Mojeek's existing URL element into the header block; falls back to the plain domain if not found
 - **Sitelinks support** — nested/indented sitelinks get a smaller inline favicon (16 px) instead of the full header
 - **Clickable headers** — favicon and site name act as links to the result URL
 - **MutationObserver** — handles dynamically loaded results without re-processing already-decorated entries
 
----
+![Mojeek Favicons](https://github.com/htejera/mojeek-favicons/blob/main/mojeek-favicons.png?raw=true)
 
 ## Installation
 
