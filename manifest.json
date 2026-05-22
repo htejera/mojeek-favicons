@@ -2,7 +2,7 @@
   "manifest_version": 3,
   "name": "Mojeek Favicons",
   "version": "1.0.0",
-  "description": "Adds a Startpage-style header to Mojeek results: favicon + site name + URL (plain text). Handles indented sitelinks.",
+  "description": "Adds a visual header to each Mojeek search result, grouping the site's favicon, readable name, and existing URL into a scannable block above the result title.",
   "icons": {
     "48": "icon.png",
     "96": "icon.png"
