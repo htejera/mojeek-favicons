@@ -21,7 +21,7 @@ Adds a visual header to each [Mojeek](https://www.mojeek.com) search result, gro
 
 ### From the Chrome Web Store
 
-> Status: Pending review...
+> [Mojeek Favicons](https://chromewebstore.google.com/detail/mojeek-favicons/clcgmdkaanjonjbgopkicokibhjkdbpe)
 
 ### Manual / Developer mode (Vivaldi, Chromium, etc.)
 
