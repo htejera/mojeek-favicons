@@ -21,7 +21,7 @@ Enhances [Mojeek](https://www.mojeek.com) search results pages with a **Startpag
 
 ### From the Chrome Web Store
 
-> 🔗 *(link once published)*
+> Waiting...
 
 ### Manual / Developer mode (Vivaldi, Chromium, etc.)
 
