@@ -21,7 +21,7 @@ Adds a visual header to each [Mojeek](https://www.mojeek.com) search result, gro
 
 ### From the Chrome Web Store
 
-> Waiting...
+> Pending review...
 
 ### Manual / Developer mode (Vivaldi, Chromium, etc.)
 
